@@ -1,0 +1,24 @@
+HW1 requirements 
+
+payment integration
+
+GUI requirements? 
+anything simple and user-friendly
+
+be able to enter height and weight etc?
+Yes, perhaps as a profile
+
+Adverts included?
+No ads
+
+Social aspect, third-party app, fb integration?
+ability to share to third-party
+
+Food tracking -- if user not entering food requirements what to do?
+set to zero
+
+logging
+"Food, restaurants, outlets"
+
+
+

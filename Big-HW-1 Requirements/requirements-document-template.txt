@@ -1,0 +1,36 @@
+• Introduction
+ ARCHIE (Anteater Recreation Center Health and Information Events)
+  is an iOS/android app whose intent is to help UCI students improve their health.
+It allows students to be aware of ARC events and pay for them using their mobile device.
+Additionally it includes activity-tracking, food-logging, and user-created event and information sharing.
+
+• Executive summary
+?
+• Application context
+?
+• Environmental requirements
+?
+• Functional requirements
+	1. Step counter
+	2. Food logger
+	3. User profile 
+	4. Event sharing
+	5. Third-party sharing
+	6. Data analytics
+	
+• Software qualities
+
+• Other requirements
+	No sign up required (user profiles automatically created when logging in)
+• Time schedule
+	Fall Quarter 
+• Potential risks
+	Security issues:
+		User location
+		User metrics may be stolen for malicious user
+		
+• Assumptions
+• Future changes
+	Expand to other UC's
+• Glossary
+• Reference documents

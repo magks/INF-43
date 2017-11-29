@@ -1,0 +1,6 @@
+FLASHCARD NOTES
+
+Software Architecture:
+A software system’s architecture is the set of
+principal design decisions about the system
+

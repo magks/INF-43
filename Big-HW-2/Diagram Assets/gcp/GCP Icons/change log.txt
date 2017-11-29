@@ -1,0 +1,53 @@
+7/2017 V3 release
+
+=========
+- Icons -
+=========
+
+Added:
+- Key Management Service
+- Cloud IoT Core
+- Container-Optimized OS
+- GPU
+- Data Loss Prevention API
+- Identity-Aware Proxy
+- Security Key Enforcement
+- Cloud External IP Addresses
+- Cloud Firewall Rules
+- Cloud Partner Interconnect
+- Cloud Router
+- Cloud Routes
+- Cloud VPN
+- Container Builder
+- Advanced Solutions Lab
+- Data Transfer Appliance
+- Expanded Product Card Icons (folder)
+
+Updated:
+- Container Builder
+- Virtual Private Cloud
+- Cloud Resource Manager
+- Cloud DNS
+- Cloud Dataflow
+- Cloud Dataproc
+- Data Studio
+- Cloud SDK
+- Cloud Source Repositories
+- Cloud Test Lab
+- Cloud Tools for Android Studio
+- Cloud Tools for IntelliJ
+- Google Plugin for Eclipse
+- BeyondCorp
+- Cloud IAM
+- Cloud Resource Manager
+- Cloud Security Scanner
+- Cloud Machine Learning
+- Cloud Speech API
+- Cloud Translation API
+- Cloud Billing API
+- Cloud Console
+- Cloud Mobile App
+- Cloud Shell
+- Debugger
+- Stackdriver
+- Cloud Interconnect
